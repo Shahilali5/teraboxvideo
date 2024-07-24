@@ -1,4 +1,4 @@
-package.json{
+{
   "name": "terabox-video-downloader-bot",
   "version": "1.0.0",
   "description": "A Telegram bot for downloading videos from Terabox.",
